@@ -1,0 +1,22 @@
+{
+  "name": "navy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josera89/Navy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josera89/Navy/issues"
+  },
+  "homepage": "https://github.com/Josera89/Navy#readme",
+  "dependencies": {
+    "knex": "^0.11.7"
+  }
+}
